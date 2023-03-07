@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+     "name" : "bala",
+     "sanskrit_name" : "बालकाण्डम्",
+     "english_chapters" : [
+       "Nárad briefs Valmiki about Rama & Ramayana",
+       "Valmiki gets divine guidance to compile the epic"
+      ],
+      "total_chapters" : 77,
+      "english_intro": "the origins and childhood of Rama, born to king Dasharatha of Ayodhya and destined to fight demons. Sita's swayamvara and subsequent wedding to Rama.",
+      "english_description": "Dasharatha was the king of Ayodhya. He had three queens Kausalya, Kaikeyi and Sumitra. He was childless for a long time and, anxious to produce an heir, he performs a fire sacrifice known as putra-kameshti yagya. As a consequence, Rama is first born to Kausalya, Bharata is born to Kaikeyi, and Lakshmana and Shatrughna are born to Sumitra.These sons are endowed, to various degrees, with the essence of the god Vishnu; Vishnu had opted to be born into mortality to combat the demon Ravana, who was oppressing the gods,and who could only be destroyed by a mortal.The boys are reared as the princes of the realm, receiving instructions from the scriptures and in warfare. When Rama is 16-years-old, the sage Vishwamitra comes to the court of Dasharatha in search of help against demons who were disturbing sacrificial rites. He chooses Rama, who is followed by Lakshmana, his constant companion throughout the story. Rama and Lakshmana receive instructions and supernatural weapons from Vishwamitra, and proceed to destroy the demons.
+                              Janaka was the king of Mithila. One day, a female child was found in the field by the king in the deep furrow dug by his plough. Overwhelmed with joy, the king regarded the child as a \"miraculous gift of god\". The child was named Sita, the Sanskrit word for furrow.Sita grew up to be a girl of unparalleled beauty and charm. When Sita was of marriageable age, the king decided to have a swayamvara which included a contest. The king was in possession of an immensely heavy bow, presented to him by the god Shiva: whoever could wield the bow could marry Sita. The sage Vishwamitra attends the swayamvara with Rama and Lakshmana. Only Rama is able to wield the bow and, when he draws the string, it breaks. Marriages are arranged between the sons of Dasharatha and daughters of Janaka. Rama gets married to Sita, Lakshmana to Urmila, Bharata to Mandavi and Shatrughan to Shrutakirti. The weddings are celebrated with great festivity at Mithila and the marriage party returns to Ayodhya."    
+    },
+    {
+     "name" : "ayodhya",
+     "sanskrit_name" : "अयोध्याकाण्डम्डम्",
+     "english_chapters" : [
+      "test"   
+      ],
+      "total_chapters" : 119,
+      "english_intro": "the preparations for Rama's coronation in the city of Ayodhya, his exile into the forest, and the regency of Bharata.",
+      "english_description": "After Rama and Sita have been married for twelve years, an elderly Dasharatha expresses his desire to crown Rama, to which the Kosala assembly and his subjects express their support.On the eve of the great event, Kaikeyi—her jealousy aroused by Manthara, a wicked maidservant—claims two boons that Dasharatha had long ago granted her. Kaikeyi demands Rama to be exiled into wilderness for fourteen years, while the succession passes to her son Bharata. The heartbroken king, constrained by his rigid devotion to his given word, accedes to Kaikeyi's demands.Rama accepts his father's reluctant decree with absolute submission and calm self-control which characterises him throughout the story. He is joined by Sita and Lakshmana. When he asks Sita not to follow him, she says,\"the forest where you dwell is Ayodhya for me and Ayodhya without you is a veritable hell for me.\"After Rama's departure, King Dasharatha, unable to bear the grief, passes away.Meanwhile, Bharata who was on a visit to his maternal uncle, learns about the events in Ayodhya. Bharata refuses to profit from his mother's wicked scheming and visits Rama in the forest. He requests Rama to return and rule. But Rama, determined to carry out his father's orders to the letter, refuses to return before the period of exile. However, Bharata carries Rama's sandals,and keeps them on the throne, while he rules as Rama's regent." 
+    },
+    {
+     "name" : "aranya",
+     "sanskrit_name" : "अरण्यकाण्डम्डम्",
+     "chapters" : [
+      "1"   
+      ],
+      "total_chapters" : 75,
+      "english_intro": "the forest life of Rama with Sita and Lakshmana, his constant companion. The kidnapping of Sita by the demon king Ravana.",
+      "english_description": "Rama, Sita and Lakshmana journeyed southward along the banks of river Godavari, where they built cottages and lived off the land. At the Panchavati forest they are visited by a rakshasa woman, Surpanakha, the sister of Ravana. She attempts to seduce the brothers and, failing in this, attempts to kill Sita. Lakshmana stops her by cutting off her nose and ears. Hearing of this, her demon brother, Khara, organises an attack against the princes. Rama annihilates Khara and his demons.
+                              When news of these events reaches Ravana, he resolves to destroy Rama by capturing Sita with the aid of the rakshasa Maricha. Maricha, assuming the form of a golden deer, captivates Sita's attention. Entranced by the beauty of the deer, Sita pleads with Rama to capture it. Lord Rama, aware that this is the play of the demons, is unable to dissuade Sita from her desire and chases the deer into the forest, leaving Sita under Lakshmana's guard. After some time Sita hears Rama calling out to her; afraid for his life she insists that Lakshmana rush to his aid. Lakshmana tries to assure her that Rama is invincible, and that it is best if he continues to follow Rama's orders to protect her. On the verge of hysterics Sita insists that it is not she but Rama who needs Lakshmana's help. He obeys her wish but stipulates that she is not to leave the cottage or entertain any strangers. He draws a chalk outline, the Lakshmana rekha around the cottage and casts a spell on it that prevents anyone from entering the boundary but allows people to exit. Finally with the coast clear, Ravana appears in the guise of an ascetic requesting Sita's hospitality. Unaware of the devious plan of her guest, Sita is tricked into leaving the rekha and then forcibly carried away by the evil Ravana.
+                              Jadayu, a vulture,tries to rescue Sita, but is mortally wounded. At Lanka Sita is kept under the heavy guard of rakshasis. Ravana demands Sita marry him, but Sita, eternally devoted to Rama, refuses.Rama and Lakshmana learn about Sita's abduction from Jadayu, and immediately set out to save her.During their search, they meet the demon Kabandha and the ascetic Shabari, who direct them towards Sugriva and Hanuman."
+    },
+    {
+     "name" : "kishkindha",
+     "sanskrit_name" : "किष्किन्धाकाण्डम्डम्",
+     "chapters" : [
+      "1"   
+      ],
+      "total_chapters" : 67,
+      "english_intro": "Rama meets Hanuman and helps destroy the monkey people's king, Vali, making Vali's younger brother, Sugriva, king of Kishkindha instead.",
+      "english_description": "he kishkindha kanda is set in the monkey citadel Kishkindha. Rama and Lakshmana meet Hanuman, the greatest of monkey heroes and an adherent of Sugriva, the banished pretender to the throne of kishkindha.Rama befriends Sugriva and helps him by killing his elder brother Vali thus regaining the kingdom of Kiskindha, in exchange for helping Rama to recover Sita.However Sugriva soon forgets his promise and spend's his time in debauchery. The clever monkey queen Tara, second wife of Sugriva (initially wife of Vali), calmly intervenes to prevent an enraged Lakshmana from destroying the monkey citadel. She then eloquently convinces Sugriva to honour his pledge. Sugriva then sends search parties to the four corners of the earth, only to return without success from north, east and west.The southern search party under the leadership of Angad and Hanuman learns from a vulture named Sampati that Sita was taken to Lanka."
+    },
+    {
+     "name" : "sundara",
+     "sanskrit_name" : "सुन्दरकाण्डम्डम्",
+     "chapters" : [
+      "1"   
+      ],
+      "total_chapters" : 68,
+      "english_intro": "detailed accounts of Hanuman's adventures, including his meeting with Sita. Traditionally read first when reading the Ramayana, this book's name derives from the fond name given to Hanuman by his mother.",
+      "english_description": "The sundara kanda forms the heart of valmiki's ramayanaand consists of a detailed, vivid account of Hanuman's adventures. After learning about Sita, Hanuman assumes a gargantuan form and makes a colossal leap across the ocean to lanka.Here,hanuman explores the demon's city and spies on ravana. He locates Sita in ashoka grove, who is wooed and threatened by Ravana and his rakshasis to marry ravana. He reassures her, giving Rama's signet ring as a sign of good faith. He offers to carry Sita back to Rama, however she refuses, reluctant to allow herself to be touched by a male other than her husband. She says that Rama himself must come and avenge the insult of her abduction.
+                              Hanuman then wreaks havoc in Lanka by destroying trees and buildings, and killing Ravana's warriors. He allows himself to be captured and produced before Ravana. He gives a bold lecture to Ravana to release Sita. He is condemned and his tail is set on fire, but he escapes his bonds and, leaping from roof to roof, sets fire to Ravana's citadel and makes the giant leap back from the island. The joyous search party returns to Kishkindha with the news"
+    },
+    {
+     "name" : "yuddha",
+     "sanskrit_name" : "युद्धकाण्डम्डम्",
+     "chapters" : [
+      "1"   
+      ],
+      "total_chapters" : 128,
+      "english_intro" : "The battle in Lanka between the monkey and the demon armies of Rama and Ravana, respectively. After Ravana is defeated, Sita undergoes the test of fire, completes exile with Rama, and they return to Ayodhya to reign over the ideal state.",
+      "english_description": "also known as Lanka kand, this book describes the battle between the army of Rama, constructed with the help of Sugriv and Ravana. Having received Hanuman's report on Sita, Rama and Lakshmana proceed with their allies toward's the shore of the southern sea. There they are joined by Ravana's renegade brother Vibhishana.The monkey's named \"Nal\" and \"Neel\" construct a floating bridge (known as Rama Setu) across the ocean, and the princes and their army cross over to Lanka. A lengthy battle ensues and Rama kills Ravana. Rama then installs Vibhishana on the throne of Lanka.
+                        The monkeys (vanars) who had fought for lord Rama had entered the throne room. The palace guards struck them to move them out. This angered lord Rama. He said these are my people. Let them be. Rama orders Sita to be brought to him in open court. To the great dismay of all present, he treats her coldly. Valmiki mentions that Rama is 'afraid of how vulgar people talk' and this factor's in his behaviour. Still what he says is very shocking- viƷ. That he only fought the battle in the cause of righteousness. He will not take Sita back because she has been the property of another man. She can marry some other prince- including one of his brothers or the new king of Lanka. Or else she can go where she likes. Grief-stricken Sita gives him a fitting reply. She reveals that her true birth is divine and causing a pyre to be built up, herself enters the fire as proof of her virtue. Rama's silence and inaction during this horrendous event shocks and paralyses everybody. However, Sita's self-imposed trial by fire triggers the appearance of the heavenly gods who explain the divine nature of lord Rama and lord Sita and their true relationship. Sita is restored to Rama and he also meets his father who has attained heavenly bliss. Rama asks for and is granted the restoration to life of all his humble followers slain in battle. It is noteworthy, in Valmiki's account, that though mistreatment of the monkey people (who symbolise the ordinary devotees of the lord) first causes him to flare up with anger and order Sita to be brought before him in open court – thus affording the devotee a 'darshan' (theophany) of 'divine mother' – but, at the same time, lord Rama is said to feel fear because of how vulgar people speak and the sort of prejudices they harbour, during his speech to Sita. This shows once again that the common people, ordinary devotees with all their imperfections, remain closest to his heart. One final point, but for Ram's cold and unfeeling behaviour to Sita, she would not have chosen to enter the fire. However, it was that act which triggered the appearance of the gods. Once again, Rama shows his overriding concern for his humble devotees by asking that the lives of his slain followers be restored. Departing from valmiki, in popular culture, this episode is dealt with differently. There, on meeting Sita, Rama asks her to undergo an \"agni pariksha\" (test of fire) to prove her purity, as he wanted to get rid of the rumours surrounding Sita's purity. When Sita plunges into the sacrificial fire, Agni the lord of fire raises Sita, unharmed, to the throne, attesting to her purity. The episode of agni pariksha varies in the versions of Ramayana by Valmiki and Tulsidas.The above version is from the Valmiki Ramayana. In Tulsidas's Ramacharitamanas Sita was under the protection of Agni so it was necessary to bring her out before reuniting with Rama. At the expiration of his term of exile, Rama returns to Ayodhya with Sita and Lakshmana, where the coronation is performed.This is the beginning of Ram-rajya, which implies an ideal state with good morals."
+    },
+    {
+     "name" : "uttara",
+     "sanskrit_name" : "उत्तरकाण्डम्डम्",
+     "chapters" : [
+      "1"   
+      ],
+      "total_chapters" : 111,
+      "english_intro": "Rumors of impurity lead to Sita's banishment, during which she gives birth to and raises Lava and Kusha. Rama and Sita reconcile. The twin boys later ascend the throne of Ayodhya, after which Rama departs from the world.",
+      "english_description": "The uttara kanda is regarded to be a later addition to the original story by Valmiki and concerns the final years of Rama, Sita, and Rama's brothers. After being crowned king, many years passed pleasantly with Sita. However, despite the agni pariksha (fire ordeal) of Sita, rumours about her purity are spreading among the populace of Ayodhya. Rama yields to public opinion and reluctantly banishes Sita to the forest, where the sage Valmiki provides shelter in his ashrama (hermitage). Here she gives birth to twin boys, Lava and Kusha, who become pupils of Valmiki and are brought up in ignorance of their identity.
+                              Valmiki composes the Ramayana and teaches Lava and Kusha to sing it. Later, Rama holds a ceremony during Ashwamedha yagna, which the sage Valmiki, with Lava and Kusha, attends. Lava and Kusha sing the Ramayana in the presence of Rama and his vast audience. When Lava and Kusha recite about Sita's exile, Rama becomes grief-stricken, and Valmiki produces Sita. Sita calls upon the earth, her mother, to receive her and as the ground opens, she vanishes into it. Rama then learns that Lava and Kusha are his children. Later a messenger from the gods appears and informs Rama that the mission of his incarnation was over. Rama returns to his celestial abode. morals."
+    }
+  ]
+}
